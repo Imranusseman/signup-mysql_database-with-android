@@ -1,5 +1,12 @@
 <?php
+/* PART 1
+//https://youtu.be/RZeMgwOvrhk
 
+Part2
+https://youtu.be/v41gKBEsMj0
+
+Part3 sample
+*/
 //header("Access-Control-Allow-Origin: *");
 $servername = "localhost";
 $username = "root";
